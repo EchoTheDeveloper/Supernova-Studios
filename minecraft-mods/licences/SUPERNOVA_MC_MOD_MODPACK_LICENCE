@@ -1,0 +1,81 @@
+# Supernova MC Mod and Modpack License v1.0.0
+
+Effective Date: Immediately
+1. Ownership and Copyright
+
+The owner of this project retains full ownership and copyright over the mod or modpack. If the mod or modpack is designated as open-source, it may be forked or modified, provided the following conditions are met.
+2. License Applicability
+
+This license applies to all modifications, derivatives, add-ons, and distributions of this mod or modpack. Every derivative must include this license in an .sml file as outlined below.
+3. Permissions
+3.1 Redistribution
+
+    Mods: Redistribution of the mod in any form requires explicit permission from the mod owner.
+    Modpacks: Redistribution of a modpack containing this mod is permitted provided the mod owner is notified and the mod's licensing terms are retained.
+
+3.2 Modifications
+
+    Mods: Modifications for personal use are allowed. Any shared modifications (e.g., in YouTube videos or redistributed versions) must include a MODIFICATIONS.sml file in the root folder.
+    Modpacks: Customizations within a modpack are permitted, but any changes to included mods must be documented in a MODPACK.sml file. Modifications or configurations should also receive permission from the mod owner if the mod's content itself is altered.
+
+3.3 Derivative Works
+
+    Mods: Users are permitted to create derivative works and add-ons for the mod under the following conditions:
+        All .sml files (such as CHANGES.sml and MODIFICATIONS.sml) must contain the following attribution at the top:
+
+        license_attrib: Supernova MC License v1.0.0
+
+        All derivative works and add-ons must retain the Supernova MC License or a compatible open-source license (e.g., MIT, Apache 2.0, but not an all-rights-reserved license).
+    Modpacks: Modpack creators may include add-ons or configurations as long as they retain this license’s attribution and include relevant .sml documentation files.
+
+3.4 Modpack Integration
+
+    This mod may be included in modpacks provided that the mod owner is notified, and any customization or integration is documented in a MODPACK.sml file. Permission for inclusion in the modpack is required.
+
+4. Attribution Requirements
+
+Any redistribution, modification, or use of the mod or modpack for commercial or non-commercial purposes must provide attribution to the original mod creator.
+5. Commercial Use
+
+Commercial use of this mod or modpack is permitted, provided that proper attribution to the original mod creator is included in a visible, accessible location (e.g., within the video description, download page, or other distribution points).
+6. Compatibility
+
+If this mod or modpack, or any derivatives, are redistributed or forked, they must use the Supernova MC License to ensure uniformity and respect for the original work.
+7. Liability Disclaimer
+
+The mod or modpack owner accepts no liability for any issues, damages, or losses arising from the use or distribution of this mod or modpack.
+8. Warranty Disclaimer
+
+The mod or modpack is provided “as is,” with no warranties of any kind, including, but not limited to, implied warranties of merchantability or fitness for a particular purpose.
+9. .sml Documentation Format
+
+Each derivative or modified work must contain .sml files to document changes, modifications, and add-ons, using the format below:
+
+Example CHANGES.sml
+
+license_attrib: Supernova MC License v1.0.0
+- Description of changes made.
+- Date of modification.
+- Attribution to contributors or modifiers.
+
+Example MODIFICATIONS.sml
+
+license_attrib: Supernova MC License v1.0.0
+- Outline of changes, additions, or deletions.
+- Attribution to the original creator.
+
+Example ADDON.sml
+
+license_attrib: Supernova MC License v1.0.0
+- Details of the add-on and compatibility requirements.
+- Attribution to the original mod.
+
+Example MODPACK.sml
+
+license_attrib: Supernova MC License v1.0.0
+- Description of any customization or integration within the modpack.
+- Attribution to the original mod and modpack creators.
+
+10. Termination
+
+The license granted here will automatically terminate if the user fails to comply with the terms of this license. In the event of a violation, the user must cease all use and distribution of the mod or modpack.
